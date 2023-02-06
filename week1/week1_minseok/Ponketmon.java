@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Poketmon {
+class Ponketmon {
     public int solution(int[] nums) {
         
         // 최대값 설정
@@ -15,6 +15,11 @@ class Poketmon {
         // 결과값 처리
         if(hashSet.size() >= max) return max;
         else return hashSet.size();
+    }
+    public static void main(String args[]){
+        Ponketmon ponketmon = new Ponketmon();
+        int[] nums = {1,2,3,4};
+        System.out.println(ponketmon.solution(nums));        
     }
 }
 
