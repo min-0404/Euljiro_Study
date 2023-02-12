@@ -1,6 +1,7 @@
 package week2.week2_minseok;
 
-class middleWord {
+// 12903
+class Programmers_12903 {
     public String solution1(String s) {
         
         // 초기값 설정

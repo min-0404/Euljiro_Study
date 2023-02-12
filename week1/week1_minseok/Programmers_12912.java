@@ -1,4 +1,5 @@
-class SumofTwoInteger {
+// 12912
+class Programmers_12912 {
     public long solution(int a, int b) {
         
         // big, small 설정

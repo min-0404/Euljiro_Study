@@ -1,7 +1,8 @@
 package week2.week2_minseok;
 import java.util.*;
 
-public class HateSameNumber {
+// 12906
+public class Programmers_12906 {
 
     public int[] solution(int []arr) {
         
