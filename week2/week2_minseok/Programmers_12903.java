@@ -37,10 +37,4 @@ class Programmers_12903 {
         }
         return answer;
     }
-
-    public static void main(String[] args) {
-        middleWord middleWord = new middleWord();
-        System.out.println(middleWord.solution1("abcd"));
-        System.out.println(middleWord.solution2("abcde"));
-    }
 }

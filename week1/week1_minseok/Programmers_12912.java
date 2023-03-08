@@ -14,9 +14,4 @@ class Programmers_12912 {
         }
         return answer;
     }
-    
-    public static void main(String[] args) {
-        SumofTwoInteger sumofTwoInteger = new SumofTwoInteger();
-        System.out.println(sumofTwoInteger.solution(1, 3));
-    }
 }

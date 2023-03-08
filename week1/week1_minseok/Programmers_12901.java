@@ -57,9 +57,9 @@ class Programmers_12901 {
 
 
     public static void main(String[] args) {
-        Year2016 solution = new Year2016();
-        System.out.println(solution.solution(4, 4));
-        System.out.println(solution.solution2(4, 4));
-        System.out.println(solution.solution3(4, 4));
+        Programmers_12901 programmers_12901 = new Programmers_12901();
+        System.out.println(programmers_12901.solution(4, 4));
+        System.out.println(programmers_12901.solution2(4, 4));
+        System.out.println(programmers_12901.solution3(4, 4));
     }
 }

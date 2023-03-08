@@ -21,8 +21,8 @@ public class Programmers_12906 {
     }
 
     public static void main(String[] args) {
-        HateSameNumber hateSameNumber  = new HateSameNumber();
+        Programmers_12906 programmers_12906 = new Programmers_12906();
         int[] arg = {1,1,2,2,2,3};
-        System.out.println(hateSameNumber.solution(arg).toString());
+        System.out.println(programmers_12906.solution(arg).toString());
     }
 }

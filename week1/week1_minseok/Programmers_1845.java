@@ -20,9 +20,9 @@ class Programmers_1845 {
 
 
     public static void main(String args[]){
-        Ponketmon ponketmon = new Ponketmon();
+        Programmers_1845 programmers_1845 = new Programmers_1845();
         int[] nums = {1,2,3,4};
-        System.out.println(ponketmon.solution(nums));        
+        System.out.println(programmers_1845.solution(nums));        
     }
 }
 
