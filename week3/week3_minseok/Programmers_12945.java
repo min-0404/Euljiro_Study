@@ -1,5 +1,6 @@
 package week3.week3_minseok;
 
+// 피보나치 수
 class Programmers_12945 {
     public int solution(int n) {
         
@@ -15,5 +16,9 @@ class Programmers_12945 {
         }
         
         return fibo[n];
+    }
+    public static void main(String[] args) {
+        Programmers_12945 programmers_12945 = new Programmers_12945();
+        System.out.println(programmers_12945.solution(10));
     }
 }
